@@ -17,7 +17,7 @@ Welcome to SYMPLIFY Music Player! This is a versatile music player application d
 To get started with SYMPLIFY Music Player, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/symplify-music-player.git
+git clone https://github.com/Py-Ninja007/symplify-music-player.git
 cd symplify-music-player
 pip install -r requirements.txt
 ```
