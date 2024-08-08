@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. **Run the Application:**
 
     ```bash
-    python SYMPLIFY(v1.0).py
+    python SYMPLIFYv1.0.py
     ```
 
 2. **Interface Overview:**
